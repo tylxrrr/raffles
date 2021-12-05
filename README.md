@@ -1,2 +1,1 @@
-# raffles
-raffle scripts
+This is an old script for typeform raffles that I wrote a few years ago. It is deprecated and I am not sure if it works. However, it may be useful to anyone who may be learning the basics of requests. The code isn't the cleanest as I was pretty new to programming.
